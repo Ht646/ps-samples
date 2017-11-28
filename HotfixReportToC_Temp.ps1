@@ -1,0 +1,1 @@
+Get-Hotfix > C:\temp\hotfix.txt
